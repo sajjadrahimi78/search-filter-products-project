@@ -1,0 +1,19 @@
+@font-face {
+  font-family: "IRANYekan";
+  font-weight: 400;
+  font-style: normal;
+  src: url(/assets/fonts/IRANYekan.woff) format(wwof),
+    url(/assets/fonts/IRANYekan.woff2) format(woff2);
+}
+
+@font-face {
+  font-family: "IRANYekan";
+  font-weight: 700;
+  font-style: normal;
+  src: url(/assets/fonts/IRANYekanWeb\ Bold.woff) format(wwof),
+    url(/assets/fonts/IRANYekanWeb\ Bold.woff2) format(woff2);
+}
+
+body,button,input,.to-do-input {
+  font-family: "IRANYekan";
+}
